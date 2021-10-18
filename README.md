@@ -14,5 +14,5 @@ This repository contains our group solutions for the programming tasks of the [M
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen.)
 
    [Afonso Ferreira]: <https://github.com/afonsof3rreira>
-   [Rita Costa]: <https://ritasantinhoscosta>
+   [Rita Costa]: <https://github.com/ritasantinhoscosta>
 
