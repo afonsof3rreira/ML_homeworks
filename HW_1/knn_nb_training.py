@@ -9,11 +9,12 @@ from sklearn.model_selection import StratifiedKFold
 from sklearn.naive_bayes import GaussianNB
 from sklearn.neighbors import KNeighborsClassifier
 import os
-"""Homework 1 programming resolution.
+"""Homework 1 - programming solution (kNN and Naïve Bayes statistical analysis).
 
     Authors:
         - Afonso Ferreira - 86689
         - Rita Costa - 95968
+        
 """
 
 # defining the labels as readable strings
