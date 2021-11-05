@@ -4,6 +4,15 @@ import sys
 import numpy as np
 from sklearn.metrics import mean_squared_error
 
+
+"""Homework 2, part 1- programming solution (kNN and Naïve Bayes statistical analysis).
+
+    Authors:
+        - Afonso Ferreira - 86689
+        - Rita Costa - 95968
+
+"""
+
 # defining paths where to retrieve the data from
 script_dir = os.path.dirname(sys.argv[0])
 filename = 'dataset_example_2.csv'

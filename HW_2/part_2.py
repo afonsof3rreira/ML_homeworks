@@ -10,7 +10,7 @@ import os
 
 from HW_2.utils.aux_functions import read_dataset, plot_boxplots, plot_3D
 
-"""Homework 1 - programming solution (kNN and Naïve Bayes statistical analysis).
+"""Homework 2, part 1 - programming solution (kNN and Naïve Bayes statistical analysis).
 
     Authors:
         - Afonso Ferreira - 86689
